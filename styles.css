@@ -1,0 +1,21 @@
+/* giving the body a dark background to better see the bright colored boxes */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(42, 117, 160);
+    color: white;
+    text-align: center;
+ }
+
+ .classWithPad { margin:10px; padding:15px; }
+
+ .fixed-top{ position: sticky;
+     top: 0;
+     left: 0;
+     background-color: rgb(255, 255, 255);
+}
+.cote{
+    color: rgb(0, 132, 255);
+} 
